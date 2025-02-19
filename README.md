@@ -13,11 +13,11 @@
 | Graphs Advanced | 0 | 0 | 0 | 0 |
 | Greedy | 0 | 0 | 0 | 0 |
 | Intervals | 0 | 0 | 0 | 0 |
-| Linked Lists | 2 | 0 | 0 | 2 |
+| Linked Lists | 3 | 0 | 0 | 3 |
 | Math & Geometry | 0 | 0 | 0 | 0 |
 | Priority Queue | 0 | 0 | 0 | 0 |
 | Sliding Window | 1 | 0 | 0 | 1 |
 | Stack | 2 | 0 | 0 | 2 |
 | Tries | 0 | 0 | 0 | 0 |
 | Two Pointers | 1 | 0 | 0 | 1 |
-| **Totals** | 14 | 1 | 0 | 15 |
+| **Totals** | 15 | 1 | 0 | 16 |
