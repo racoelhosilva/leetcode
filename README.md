@@ -17,7 +17,7 @@
 | Math & Geometry | 0 | 0 | 0 | 0 |
 | Priority Queue | 0 | 0 | 0 | 0 |
 | Sliding Window | 1 | 0 | 0 | 1 |
-| Stack | 1 | 0 | 0 | 1 |
+| Stack | 2 | 0 | 0 | 2 |
 | Tries | 0 | 0 | 0 | 0 |
 | Two Pointers | 1 | 0 | 0 | 1 |
-| **Totals** | 11 | 1 | 0 | 12 |
+| **Totals** | 12 | 1 | 0 | 13 |
