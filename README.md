@@ -14,10 +14,10 @@
 | Greedy | 0 | 0 | 0 | 0 |
 | Intervals | 1 | 0 | 0 | 1 |
 | Linked Lists | 5 | 0 | 0 | 5 |
-| Math & Geometry | 0 | 0 | 0 | 0 |
+| Math & Geometry | 1 | 0 | 0 | 1 |
 | Priority Queue | 0 | 0 | 0 | 0 |
 | Sliding Window | 1 | 0 | 0 | 1 |
 | Stack | 2 | 0 | 0 | 2 |
 | Tries | 0 | 0 | 0 | 0 |
 | Two Pointers | 3 | 0 | 0 | 3 |
-| **Totals** | 31 | 1 | 0 | 32 |
+| **Totals** | 32 | 1 | 0 | 33 |
