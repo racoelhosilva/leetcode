@@ -20,7 +20,7 @@ class Solution:
     # Otherwise, either one element is root or they are on different subtrees
     # In both of these cases, the lowest common ancestor is root
     # Time Complexity: O(log n)
-    # Space Complexity: O(1)
+    # Space Complexity: O(log n)
     def lowestCommonAncestor(self, root, p, q):
         if not root: return None
         if p.val < root.val and q.val < root.val:

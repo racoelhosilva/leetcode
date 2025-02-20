@@ -19,7 +19,7 @@ class Solution:
     # Propagate the change to each subtree
     # If there is no subtree, stop and return
     # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Space Complexity: O(h)
     def invertTree(self, root):
         if not root:
             return None

@@ -18,7 +18,7 @@ class Solution:
     # At any node, the maximum depth can be calculated as the maximum
     # between the max depth of left subtree and right subtree + 1
     # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Space Complexity: O(h)
     def maxDepth(self, root):
         if not root:
             return 0

@@ -34,7 +34,7 @@ class Solution:
     # We can use a modified height function that returns -1 if any of the 
     # subtrees is not balanced and propagate this value up the tree
     # Time Complexity: O(n)
-    # Space Complexity: O(1)
+    # Space Complexity: O(h)
     def isBalanced(self, root):
         return self.balancedHeight(root) >= 0
     def balancedHeight(self, root):
