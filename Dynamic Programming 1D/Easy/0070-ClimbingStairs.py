@@ -9,7 +9,7 @@ Link: https://leetcode.com/problems/climbing-stairs/
 class Solution:
     # Recursive Approach
     # Time Complexity: O(2^n) -> Time Limit Exceeded
-    # Space Complexity: O(1)
+    # Space Complexity: O(n)
     def climbStairs(self, n):
         if n == 0 or n == 1:
             return 1
