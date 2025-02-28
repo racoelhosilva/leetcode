@@ -14,10 +14,10 @@
 | Greedy | 1 | 1 | 0 | 2 |
 | Heap Priority Queue | 2 | 1 | 0 | 3 |
 | Intervals | 1 | 2 | 0 | 3 |
-| Linked Lists | 7 | 1 | 0 | 8 |
+| Linked Lists | 7 | 2 | 0 | 9 |
 | Math & Geometry | 7 | 0 | 0 | 7 |
 | Sliding Window | 2 | 1 | 0 | 3 |
 | Stack | 4 | 2 | 0 | 6 |
 | Tries | 0 | 1 | 0 | 1 |
 | Two Pointers | 9 | 2 | 0 | 11 |
-| **Totals** | 72 | 17 | 0 | 89 |
+| **Totals** | 72 | 18 | 0 | 90 |
