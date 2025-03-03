@@ -19,5 +19,5 @@
 | Sliding Window | 2 | 1 | 0 | 3 |
 | Stack | 4 | 2 | 0 | 6 |
 | Tries | 0 | 1 | 0 | 1 |
-| Two Pointers | 9 | 2 | 0 | 11 |
-| **Totals** | 72 | 22 | 0 | 94 |
+| Two Pointers | 9 | 3 | 0 | 12 |
+| **Totals** | 72 | 23 | 0 | 95 |
