@@ -65,15 +65,16 @@ class Solution:
         
         def partition(l, r):
             pivotIdx = randint(l, r)
+            pivotValue = distance(points[pivotIdx])
             points[r], points[pivotIdx] = points[pivotIdx], points[r]
-            pivotValue = distance(points[r])
             
-            slow = l
-            for fast in range(l, r+1):
-                if distance(points[fast]) <= pivotValue:
-                    points[slow], points[fast] = points[fast], points[slow]
-                    slow += 1
-            return slow-1
+            stored_index = l
+            for i in range(l, r):
+                if distance(points[i]) < pivotValue:
+                    points[stored_index], points[i] = points[i], points[stored_index]
+                    stored_index += 1
+            points[r], points[stored_index] = points[stored_index], points[r] 
+            return stored_index
         
         l, r, p = 0, len(points)-1, len(points)
         while p != k:
