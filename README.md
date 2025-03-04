@@ -16,8 +16,8 @@
 | Intervals | 1 | 2 | 0 | 3 |
 | Linked Lists | 7 | 2 | 0 | 9 |
 | Math & Geometry | 8 | 0 | 0 | 8 |
-| Sliding Window | 2 | 1 | 0 | 3 |
+| Sliding Window | 2 | 2 | 0 | 4 |
 | Stack | 4 | 2 | 0 | 6 |
 | Tries | 0 | 1 | 0 | 1 |
 | Two Pointers | 9 | 3 | 0 | 12 |
-| **Totals** | 73 | 28 | 0 | 101 |
+| **Totals** | 73 | 29 | 0 | 102 |
