@@ -7,8 +7,9 @@ Link: https://leetcode.com/problems/search-insert-position/
 """
 
 class Solution:
-    # Binary Search
-    # Keeping res lower bounded
+    # Binary Search (Bounded res)
+    # When the value at mid is larger than target, its index is a candidate
+    # We keep track of these candidates in case the value does not exist
     # Time Complexity: O(log n)
     # Space Complexity: O(1)
     def searchInsert(self, nums, target):
@@ -19,14 +20,15 @@ class Solution:
             if nums[mid] < target:
                 l = mid + 1
             elif nums[mid] > target:
-                r = mid - 1
                 res = mid
+                r = mid - 1
             else:
                 return mid
         return res
 
     # Binary Search
-    # Forcing l pointer to pass the r pointer
+    # This is the same idea of the previous approach
+    # Instead of using another variable, we can use the l pointer
     # Time Complexity: O(log n)
     # Space Complexity: O(1)
     def searchInsert(self, nums, target):
@@ -41,8 +43,9 @@ class Solution:
                 return mid
         return l
     
-    # Binary Search
-    # Lower bound 
+    # Binary Search 
+    # We keep a bound on the r pointer to make sure it never overshoots the target
+    # The search is left-biased, left is incremented and we don't need to run when l == r
     # Time Complexity: O(log n)
     # Space Complexity: O(1)
     def searchInsert(self, nums, target):
@@ -51,7 +54,7 @@ class Solution:
             m = (l + r) // 2  
             if nums[m] >= target:
                 r = m
-            elif nums[m] < target:
+            else:
                 l = m + 1
         return l
     
