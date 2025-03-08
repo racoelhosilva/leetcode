@@ -17,7 +17,7 @@
 | Linked Lists | 7 | 5 | 0 | 12 |
 | Math & Geometry | 8 | 0 | 0 | 8 |
 | Sliding Window | 3 | 2 | 0 | 5 |
-| Stack | 4 | 2 | 0 | 6 |
+| Stack | 4 | 3 | 0 | 7 |
 | Tries | 0 | 1 | 0 | 1 |
 | Two Pointers | 9 | 3 | 0 | 12 |
-| **Totals** | 74 | 38 | 0 | 112 |
+| **Totals** | 74 | 39 | 0 | 113 |
