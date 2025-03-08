@@ -18,6 +18,6 @@
 | Math & Geometry | 8 | 0 | 0 | 8 |
 | Sliding Window | 3 | 3 | 0 | 6 |
 | Stack | 4 | 3 | 0 | 7 |
-| Tries | 0 | 1 | 0 | 1 |
+| Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 9 | 3 | 0 | 12 |
-| **Totals** | 74 | 43 | 1 | 118 |
+| **Totals** | 74 | 44 | 1 | 119 |
