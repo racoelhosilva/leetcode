@@ -2,7 +2,7 @@
 LeetCode Problem: Implement Stack using Queues
 Problem Number: 225
 Difficulty: Easy
-Topic: Stack
+Topic: Queue
 Link: https://leetcode.com/problems/implement-stack-using-queues/
 """
 
