@@ -17,9 +17,9 @@
 | Linked Lists | 7 | 6 | 1 | 14 |
 | Math & Geometry | 8 | 1 | 0 | 9 |
 | Prefix Sum | 4 | 1 | 0 | 5 |
-| Queue | 2 | 0 | 0 | 2 |
+| Queue | 2 | 1 | 0 | 3 |
 | Sliding Window | 5 | 5 | 0 | 10 |
 | Stack | 3 | 3 | 0 | 6 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 3 | 0 | 14 |
-| **Totals** | 90 | 59 | 1 | 150 |
+| **Totals** | 90 | 60 | 1 | 151 |
