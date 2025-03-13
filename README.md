@@ -2,7 +2,7 @@
 
 | **Topic** | **Easy** | **Medium** | **Hard** | **Totals** |
 |-------|------|--------|------|--------|
-| Arrays & Hashing | 10 | 7 | 0 | 17 |
+| Arrays & Hashing | 10 | 6 | 0 | 16 |
 | Backtracking | 1 | 5 | 0 | 6 |
 | Binary Search | 6 | 4 | 0 | 10 |
 | Binary Trees | 11 | 6 | 0 | 17 |
@@ -16,7 +16,7 @@
 | Intervals | 1 | 2 | 0 | 3 |
 | Linked Lists | 7 | 6 | 1 | 14 |
 | Math & Geometry | 8 | 1 | 0 | 9 |
-| Prefix Sum | 1 | 0 | 0 | 1 |
+| Prefix Sum | 1 | 1 | 0 | 2 |
 | Sliding Window | 4 | 5 | 0 | 9 |
 | Stack | 4 | 3 | 0 | 7 |
 | Tries | 0 | 2 | 0 | 2 |

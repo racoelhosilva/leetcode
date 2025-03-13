@@ -2,7 +2,7 @@
 LeetCode Problem: Product of Array Except Self
 Problem Number: 238
 Difficulty: Medium
-Topic: Arrays & Hashing
+Topic: Prefix Sum
 Link: https://leetcode.com/problems/product-of-array-except-self/
 """
 
