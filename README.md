@@ -16,9 +16,9 @@
 | Intervals | 1 | 2 | 0 | 3 |
 | Linked Lists | 7 | 6 | 1 | 14 |
 | Math & Geometry | 8 | 1 | 0 | 9 |
-| Prefix Sum | 1 | 1 | 0 | 2 |
+| Prefix Sum | 2 | 1 | 0 | 3 |
 | Sliding Window | 4 | 5 | 0 | 9 |
 | Stack | 4 | 3 | 0 | 7 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 9 | 3 | 0 | 12 |
-| **Totals** | 77 | 59 | 1 | 137 |
+| **Totals** | 78 | 59 | 1 | 138 |
