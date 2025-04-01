@@ -15,7 +15,8 @@ class TreeNode(object):
 
 class Solution:
     # Recursive Approach
-    # Time Complexity: O(n)
+    # Operations take longer due to Python's index
+    # Time Complexity: O(n^2)
     # Space Complexity: O(n)
     def buildTree(self, preorder, inorder):
         if not preorder or not inorder:
