@@ -2,7 +2,7 @@
 LeetCode Problem: Partition Labels
 Problem Number: 763
 Difficulty: Medium
-Topic: Two Pointers
+Topic: Greedy
 Link: https://leetcode.com/problems/partition-labels/
 """
 
