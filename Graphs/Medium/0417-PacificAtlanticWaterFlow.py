@@ -7,6 +7,9 @@ Link: https://leetcode.com/problems/pacific-atlantic-water-flow/
 """
 
 class Solution:
+    # Depth First Search
+    # Time Complexity: O(m * n)
+    # Space Complexity: O(m * n)
     def pacificAtlantic(self, heights):
         ROWS, COLS = len(heights), len(heights[0])
         directions = (0, 1, 0, -1, 0)
@@ -28,6 +31,9 @@ class Solution:
         
         return list(atlantic & pacific)
     
+    # Breadth First Search
+    # Time Complexity: O(m * n)
+    # Space Complexity: O(m * n)
     def pacificAtlantic(self, heights):
         from collections import deque
 
