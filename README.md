@@ -5,7 +5,7 @@
 | Arrays & Hashing | 15 | 7 | 0 | 22 |
 | Backtracking | 1 | 6 | 0 | 7 |
 | Binary Search | 6 | 5 | 0 | 11 |
-| Binary Trees | 13 | 9 | 0 | 22 |
+| Binary Trees | 13 | 10 | 0 | 23 |
 | Bit Manipulation | 6 | 2 | 0 | 8 |
 | Dynamic Programming 1D | 3 | 3 | 0 | 6 |
 | Dynamic Programming 2D | 0 | 0 | 0 | 0 |
@@ -22,4 +22,4 @@
 | Stack | 3 | 4 | 0 | 7 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 3 | 0 | 14 |
-| **Totals** | 92 | 80 | 1 | 173 |
+| **Totals** | 92 | 81 | 1 | 174 |
