@@ -7,6 +7,9 @@ Link: https://leetcode.com/problems/max-consecutive-ones-iii/
 """
 
 class Solution:
+    # Sliding Window
+    # Time Complexity: O(n)
+    # Space Complexity: O(1)
     def longestOnes(self, nums, k):
         l, r = 0, 0
         zero_count = 0
