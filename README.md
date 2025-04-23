@@ -18,8 +18,8 @@
 | Math & Geometry | 10 | 5 | 0 | 15 |
 | Prefix Sum | 4 | 1 | 0 | 5 |
 | Queue | 2 | 1 | 0 | 3 |
-| Sliding Window | 5 | 8 | 0 | 13 |
+| Sliding Window | 5 | 9 | 0 | 14 |
 | Stack | 3 | 6 | 0 | 9 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 3 | 0 | 14 |
-| **Totals** | 97 | 99 | 1 | 197 |
+| **Totals** | 97 | 100 | 1 | 198 |
