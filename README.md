@@ -7,7 +7,7 @@
 | Binary Search | 6 | 5 | 0 | 11 |
 | Binary Trees | 13 | 12 | 0 | 25 |
 | Bit Manipulation | 6 | 2 | 0 | 8 |
-| Dynamic Programming 1D | 3 | 3 | 0 | 6 |
+| Dynamic Programming 1D | 3 | 4 | 0 | 7 |
 | Dynamic Programming 2D | 0 | 0 | 0 | 0 |
 | Graphs | 3 | 13 | 1 | 17 |
 | Graphs Advanced | 0 | 0 | 0 | 0 |
@@ -22,4 +22,4 @@
 | Stack | 3 | 6 | 0 | 9 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 3 | 0 | 14 |
-| **Totals** | 98 | 103 | 3 | 204 |
+| **Totals** | 98 | 104 | 3 | 205 |
