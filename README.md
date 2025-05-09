@@ -12,7 +12,7 @@
 | Graphs | 3 | 17 | 1 | 21 |
 | Graphs Advanced | 0 | 3 | 0 | 3 |
 | Greedy | 2 | 4 | 0 | 6 |
-| Heap Priority Queue | 2 | 4 | 1 | 7 |
+| Heap Priority Queue | 2 | 5 | 1 | 8 |
 | Intervals | 1 | 4 | 0 | 5 |
 | Linked Lists | 7 | 9 | 1 | 17 |
 | Math & Geometry | 11 | 6 | 0 | 17 |
@@ -22,4 +22,4 @@
 | Stack | 3 | 6 | 0 | 9 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 4 | 0 | 15 |
-| **Totals** | 102 | 125 | 3 | 230 |
+| **Totals** | 102 | 126 | 3 | 231 |
