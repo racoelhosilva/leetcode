@@ -19,7 +19,7 @@
 | Prefix Sum | 4 | 1 | 0 | 5 |
 | Queue | 2 | 1 | 0 | 3 |
 | Sliding Window | 5 | 12 | 0 | 17 |
-| Stack | 3 | 8 | 0 | 11 |
+| Stack | 3 | 9 | 0 | 12 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 6 | 0 | 17 |
-| **Totals** | 104 | 136 | 3 | 243 |
+| **Totals** | 104 | 137 | 3 | 244 |
