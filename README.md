@@ -14,7 +14,7 @@
 | Greedy | 3 | 5 | 0 | 8 |
 | Heap Priority Queue | 2 | 7 | 1 | 10 |
 | Intervals | 1 | 5 | 0 | 6 |
-| Linked Lists | 7 | 10 | 1 | 18 |
+| Linked Lists | 7 | 11 | 1 | 19 |
 | Math & Geometry | 12 | 8 | 0 | 20 |
 | Prefix Sum | 5 | 3 | 0 | 8 |
 | Queue | 2 | 1 | 0 | 3 |
@@ -22,4 +22,4 @@
 | Stack | 3 | 9 | 0 | 12 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 6 | 0 | 17 |
-| **Totals** | 109 | 146 | 3 | 258 |
+| **Totals** | 109 | 147 | 3 | 259 |
