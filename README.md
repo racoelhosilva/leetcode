@@ -11,7 +11,7 @@
 | Dynamic Programming 2D | 0 | 0 | 0 | 0 |
 | Graphs | 3 | 18 | 1 | 22 |
 | Graphs Advanced | 0 | 3 | 0 | 3 |
-| Greedy | 3 | 5 | 0 | 8 |
+| Greedy | 3 | 6 | 0 | 9 |
 | Heap Priority Queue | 2 | 7 | 1 | 10 |
 | Intervals | 1 | 5 | 0 | 6 |
 | Linked Lists | 7 | 11 | 1 | 19 |
@@ -22,4 +22,4 @@
 | Stack | 3 | 10 | 0 | 13 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 6 | 0 | 17 |
-| **Totals** | 109 | 148 | 5 | 262 |
+| **Totals** | 109 | 149 | 5 | 263 |
