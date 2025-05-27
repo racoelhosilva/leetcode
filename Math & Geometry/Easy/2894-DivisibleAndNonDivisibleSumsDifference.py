@@ -15,7 +15,14 @@ class Solution:
         s = n // m
         # Sum of progression a(n) = a(1) + (n - 1) * m {multiples of m in [1,n]}
         t = s * (m + m * s) / 2
-        # Sum of progressin a(n) = a(1) + n - 1 {numbers in [1,n]}
+        # Sum of progression a(n) = a(1) + n - 1 {numbers in [1,n]}
         u = n * (n + 1) / 2
         # Result is difference between u and 2 * t
         return u - 2 * t
+
+    # Collapsed approach
+    # Time Complexity: O(1)
+    # Space Complexity: O(1)
+    def differenceOfSums(self, n, m):
+        s = n // m
+        return n * (n + 1) / 2 - s * (m + m * s)
