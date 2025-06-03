@@ -9,7 +9,7 @@
 | Bit Manipulation | 6 | 3 | 0 | 9 |
 | Dynamic Programming 1D | 3 | 6 | 0 | 9 |
 | Dynamic Programming 2D | 0 | 0 | 0 | 0 |
-| Graphs | 3 | 18 | 1 | 22 |
+| Graphs | 3 | 18 | 2 | 23 |
 | Graphs Advanced | 0 | 3 | 0 | 3 |
 | Greedy | 3 | 7 | 0 | 10 |
 | Heap Priority Queue | 2 | 7 | 1 | 10 |
@@ -22,4 +22,4 @@
 | Stack | 3 | 10 | 0 | 13 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 6 | 0 | 17 |
-| **Totals** | 111 | 152 | 5 | 268 |
+| **Totals** | 111 | 152 | 6 | 269 |
