@@ -15,11 +15,11 @@
 | Heap Priority Queue | 2 | 8 | 1 | 11 |
 | Intervals | 1 | 5 | 0 | 6 |
 | Linked Lists | 8 | 12 | 1 | 21 |
-| Math & Geometry | 14 | 8 | 0 | 22 |
+| Math & Geometry | 14 | 9 | 0 | 23 |
 | Prefix Sum | 5 | 3 | 0 | 8 |
 | Queue | 2 | 2 | 0 | 4 |
 | Sliding Window | 5 | 12 | 0 | 17 |
 | Stack | 3 | 10 | 0 | 13 |
 | Tries | 0 | 2 | 0 | 2 |
 | Two Pointers | 11 | 7 | 1 | 19 |
-| **Totals** | 112 | 156 | 8 | 276 |
+| **Totals** | 112 | 157 | 8 | 277 |
