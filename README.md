@@ -20,6 +20,6 @@
 | Queue | 2 | 2 | 0 | 4 |
 | Sliding Window | 5 | 13 | 0 | 18 |
 | Stack | 3 | 10 | 0 | 13 |
-| Tries | 0 | 2 | 0 | 2 |
+| Tries | 0 | 2 | 1 | 3 |
 | Two Pointers | 11 | 7 | 1 | 19 |
-| **Totals** | 112 | 160 | 9 | 281 |
+| **Totals** | 112 | 160 | 10 | 282 |
