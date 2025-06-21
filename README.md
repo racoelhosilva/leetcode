@@ -2,7 +2,7 @@
 
 | **Topic** | **Easy** | **Medium** | **Hard** | **Totals** |
 |-------|------|--------|------|--------|
-| Arrays & Hashing | 28 | 15 | 0 | 43 |
+| Arrays & Hashing | 28 | 16 | 0 | 44 |
 | Backtracking | 1 | 10 | 3 | 14 |
 | Binary Search | 6 | 8 | 0 | 14 |
 | Binary Trees | 14 | 18 | 0 | 32 |
@@ -22,4 +22,4 @@
 | Stack | 3 | 10 | 0 | 13 |
 | Tries | 0 | 2 | 1 | 3 |
 | Two Pointers | 11 | 8 | 1 | 20 |
-| **Totals** | 118 | 174 | 10 | 302 |
+| **Totals** | 118 | 175 | 10 | 303 |
